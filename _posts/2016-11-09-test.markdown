@@ -8,4 +8,4 @@ Hej!
 
 Detta är ett blogginlägg.
 
-![My helpful screenshot]({{ site.url }}/pics/header.jpg)
+![My helpful screenshot]({{ site.url }}/pics/enbildtest.jpg)
