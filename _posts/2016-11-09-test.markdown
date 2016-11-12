@@ -1,13 +1,13 @@
 ---
 layout: post
 comments: true
-title:  Detta är en testsida
+title:  Ett första blogginlägg
 date:   2016-11-09 12:49:49 +0000
 
 ---
 Hej!
 
-Detta är ett blogginlägg.
+Detta är mitt första blogginlägg där jag testar hur det ser ut.
 
 ![My helpful screenshot]({{ site.url }}/pics/enbildtest.jpg)
 
