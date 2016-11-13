@@ -6,3 +6,8 @@ date:   2016-11-09 12:49:49 +0000
 
 ---
 
+Vad är robots.txt och hur har du konfiguerat det för din webbplats?
+
+Man använder robots.txt för att ge webbrobotar instruktioner om att de inta ska besöka nes webbplats.
+
+
