@@ -8,6 +8,23 @@ date:   2016-11-09 12:49:49 +0000
 
 Vad är robots.txt och hur har du konfiguerat det för din webbplats?
 
-Man använder robots.txt för att ge webbrobotar instruktioner om att de inta ska besöka nes webbplats.
+Svar: Man använder robots.txt för att ge webbrobotar instruktioner om att de inta ska besöka nes webbplats.
+
+Vad är humans.txt och hur har du konfigurerat det för din webbplats?
+
+Svar:
+
+Hur har du lagt till kommentarer på dina blogginlägg?
+
+Svar:
+
+Vad är Open Graph och hur använder du det?
+
+Svar: Det är till för att webbplatsen lätt ska kunna delas på sociala medier. När man till exempel delar webbplatsen på
+Facebook så ska det alltid vara en bild som visas som "standardbild" för den webbplatsen. Man använder det genom att lägg in
+meta taggar i head taggen på sin webbplats. Där ska man lägga till vilken titel som ska visas när sidan delas, vilken bild man vill ha som
+"standardbild", vad det är för slags typ och vilken url sidan har.
+
+
 
 
