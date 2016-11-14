@@ -5,25 +5,41 @@ title:  Svar
 date:   2016-11-09 12:49:49 +0000
 
 ---
+<b>Vad tycker du om att förkompilera din CSS?</b>
+<ul>
+<li>Jämfört med vanlig CSS?</li>
+<li>Vilka tekniker har du använt?</li>
+<li>Fördelar och nackdelar?</li>
+</ul>
 
+<b>Svar:</b> Jag tycker det är bra att förkomplirera min CSS kod eftersom att man slipper upprepa koden flera gånger då.
 Vad är robots.txt och hur har du konfiguerat det för din webbplats?
 
-Svar: Man använder robots.txt för att ge webbrobotar instruktioner om att de inta ska besöka nes webbplats.
+<b>Vad tycker du om static site generators?
+<br>Vilka typer av projekt är det bra att använda till?</b>
 
-Vad är humans.txt och hur har du konfigurerat det för din webbplats?
+<b>Svar:</b> Jag tycker det är bra med static site generators eftersom man slipper upprepa koden på alla sidor där man ska använda den.
+Det passar att använda till projekt där man ska ha samma saker på fler sidor som till exempel en meny, någon headerbild, eller information i footern.
 
-Svar: Det är en textfil som innehåller information om de människor som har byggt webbplatsen.
+<b>Vad är robots.txt och hur har du konfigurerat det för din webbplats?</b>
 
-Hur har du lagt till kommentarer på dina blogginlägg?
+<b>Svar:</b> Man använder robots.txt för att ge webbrobotar instruktioner om att de inta ska besöka ens webbplats. Jag har lagt in det på en egen sida, där jag tillåter google, men inte några andra.
 
-Svar:
 
-Vad är Open Graph och hur använder du det?
+<b>Vad är humans.txt och hur har du konfigurerat det för din webbplats?</b>
 
-Svar: Det är till för att webbplatsen lätt ska kunna delas på sociala medier. När man till exempel delar webbplatsen på
-Facebook så ska det alltid vara en bild som visas som "standardbild" för den webbplatsen. Man använder det genom att lägg in
-meta taggar i head taggen på sin webbplats. Där ska man lägga till vilken titel som ska visas när sidan delas, vilken bild man vill ha som
-"standardbild", vad det är för slags typ och vilken url sidan har.
+<b>Svar:</b> Det är en textfil som innehåller information om de människor som har byggt webbplatsen. Jag har lagt till den informationen på en egen sida, där jag har skrivit dit mitt namn, hur man kan kntakta mig, när sidan uppdaterades senast och vilket språk sidan är skriven på.
+
+<b>Hur har du lagt till kommentarer på dina blogginlägg?</b>
+
+<b>Svar:</b> Jag la till kommentarer med hjälp av Disqus.
+
+<b>Vad är Open Graph och hur använder du det?</b>
+
+<b>Svar:</b> Det är till för att webbplatsen lätt ska kunna delas på sociala medier. När man till exempel delar webbplatsen på
+Facebook så ska det alltid vara en bild som visas som "standardbild" för den webbplatsen. Jag har använt det genom att lägg in
+meta taggar i min head.html. Där har jag lagt till vilken titel som ska visas när sidan delas, vilken bild jag vill ha som
+"standardbild", att det är en webbplats och den url som sidan har.
 
 
 
