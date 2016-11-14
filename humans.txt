@@ -1,2 +1,8 @@
-/* Author */
-Sofia Björkesjö
+/* AUTHOR */
+Name: Sofia Björkesjö
+Contact: sb223fz@student.lnu.se
+
+/* SITE */
+
+Last update: 2016/11/14
+Language: Svenska
