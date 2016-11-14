@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  Svar
+title:  Mina svar
 date:   2016-11-09 12:49:49 +0000
 
 ---
@@ -32,7 +32,7 @@ Det passar att använda till projekt där man ska ha samma saker på fler sidor 
 
 <b>Hur har du lagt till kommentarer på dina blogginlägg?</b>
 
-<b>Svar:</b> Jag la till kommentarer med hjälp av Disqus.
+<b>Svar:</b> Jag la till kommentarer med hjälp av Disqus. Jag la till en kod i sidan post.html, som alla blogginlägg ärver sin kod ifrån och så lägger jag till comments:true, i varje blogginlägg, vilket betyder att det går att kommentera på inläggen.
 
 <b>Vad är Open Graph och hur använder du det?</b>
 

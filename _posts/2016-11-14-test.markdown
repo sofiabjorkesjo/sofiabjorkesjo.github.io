@@ -1,0 +1,8 @@
+---
+layout: post
+comments: true
+title:  Testinlägg
+date:   2016-11-14 12:49:49 +0000
+
+---
+![My helpful screenshot]({{ site.url }}/pics/enbild.jpg)
