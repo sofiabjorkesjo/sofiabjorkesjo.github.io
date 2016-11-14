@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 0px solid #000000;
-    border-bottom: 0px solid #000000;
+    border-top: 0px solid $black-color;
+    border-bottom: 0px solid $black-color;
     min-height: 56px;
     background-color: #ffffff;
 
@@ -22,7 +22,7 @@
 
     &,
     &:visited {
-        color: #000000;
+        color: $black-color;
     }
 }
 
@@ -95,7 +95,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid #000000;
+    border-top: 1px solid $black-color;
     padding: $spacing-unit 0;
 }
 
@@ -129,7 +129,7 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
-    border: 0px solid #000000;
+    border: 0px solid $black-color;
     text-align: center;
 }
 
@@ -237,7 +237,7 @@
 #box {
     width: 300px;
     height: 120px;
-    border: 0px solid #000000;
+    border: 0px solid $black-color;
     float: left;
     margin: 30px;
 }

@@ -13,7 +13,7 @@ date:   2016-11-09 12:49:49 +0000
 </ul>
 
 <b>Svar:</b> Jag tycker det är bra att förkomplirera min CSS kod eftersom att man slipper upprepa koden flera gånger då.
-Vad är robots.txt och hur har du konfiguerat det för din webbplats?
+Jag har använt mig av variabler, där jag har lagt till färg och ändrat typsnitt. Fördelar är att det på det stora hela blir mindre kod. Nackdelar är att jag tycker de blir lite rörigt att ha flera CSS filer, så det är svårt att veta vad man ska skriva i vilken fil.
 
 <b>Vad tycker du om static site generators?
 <br>Vilka typer av projekt är det bra att använda till?</b>
