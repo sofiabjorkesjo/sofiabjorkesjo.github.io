@@ -12,7 +12,7 @@ Svar: Man använder robots.txt för att ge webbrobotar instruktioner om att de i
 
 Vad är humans.txt och hur har du konfigurerat det för din webbplats?
 
-Svar:
+Svar: Det är en textfil som innehåller information om de människor som har byggt webbplatsen.
 
 Hur har du lagt till kommentarer på dina blogginlägg?
 
