@@ -37,7 +37,7 @@
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $black-color;
         border-radius: 5px;
         text-align: right;
 
@@ -90,7 +90,7 @@
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
-    background-color: #ffffff;
+    background-color: $background-color;
 }
 
 .contact-list,
@@ -101,7 +101,7 @@
 
 .footer-col-wrapper {
     font-size: $base-font-size;
-    color: #000000;
+    color: $black-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
