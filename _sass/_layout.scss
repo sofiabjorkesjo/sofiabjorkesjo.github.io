@@ -12,19 +12,7 @@
     position: relative;
 }
 
-.site-title {
-    font-size: 25px;
 
-    line-height: 56px;
-    letter-spacing: 0px;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-        color: $black-color;
-    }
-}
 
 .site-nav {
     float: right;
@@ -112,7 +100,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: $base-font-size;
     color: #000000;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;

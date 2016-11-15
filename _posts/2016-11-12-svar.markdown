@@ -28,11 +28,11 @@ Det passar att använda till projekt där man ska ha samma saker på fler sidor 
 
 <b>Vad är humans.txt och hur har du konfigurerat det för din webbplats?</b>
 
-<b>Svar:</b> Det är en textfil som innehåller information om de människor som har byggt webbplatsen. Jag har lagt till den informationen på en egen sida, där jag har skrivit dit mitt namn, hur man kan kntakta mig, när sidan uppdaterades senast och vilket språk sidan är skriven på.
+<b>Svar:</b> Det är en textfil som innehåller information om de människor som har byggt webbplatsen. Jag har lagt till den informationen på en egen sida, där jag har skrivit dit mitt namn, hur man kan kontakta mig, när sidan uppdaterades senast och vilket språk sidan är skriven på.
 
 <b>Hur har du lagt till kommentarer på dina blogginlägg?</b>
 
-<b>Svar:</b> Jag la till kommentarer med hjälp av Disqus. Jag la till en kod i sidan post.html, som alla blogginlägg ärver sin kod ifrån och så lägger jag till comments:true, i varje blogginlägg, vilket betyder att det går att kommentera på inläggen.
+<b>Svar:</b> Jag la till kommentarer med hjälp av Disqus. Jag la till en kod i sidan post.html, som alla blogginlägg ärver sin kod ifrån och så lägger jag till comments:true i varje blogginlägg, vilket betyder att det går att kommentera på inläggen.
 
 <b>Vad är Open Graph och hur använder du det?</b>
 
